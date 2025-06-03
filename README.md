@@ -31,3 +31,5 @@ Be excellent to each other.
 ## License
 
 GPLv3
+
+# PR Update: 2025-10-15 - docs/update-5292
